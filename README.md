@@ -6,4 +6,7 @@ Coursera test repository
      </head>
   <body>
     </body>
+  <body>
+    </body>
+  </head>
   </html>
